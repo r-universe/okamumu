@@ -8,8 +8,3 @@
 	url = https://github.com/okamumu/deformula
 	shallow = true
 	registered = true
-[submodule "mapfit"]
-	path = mapfit
-	url = https://github.com/okamumu/mapfit
-	shallow = true
-	registered = true
