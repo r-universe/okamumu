@@ -2,8 +2,5 @@
   {
     "package": "deformula",
     "oncran": true
-  },
-  {
-    "package": "mapfit"
   }
 ]
