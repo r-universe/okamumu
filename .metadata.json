@@ -1,10 +1,10 @@
 [
   {
-    "package": "deformula",
+    "package": "mapfit",
     "oncran": true
   },
   {
-    "package": "mapfit",
+    "package": "deformula",
     "oncran": true
   }
 ]
