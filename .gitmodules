@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mapfit"]
-	path = mapfit
-	url = https://github.com/okamumu/mapfit
-	shallow = true
-	registered = true
 [submodule "deformula"]
 	path = deformula
 	url = https://github.com/okamumu/deformula
+	shallow = true
+	registered = true
+[submodule "mapfit"]
+	path = mapfit
+	url = https://github.com/okamumu/mapfit
 	shallow = true
 	registered = true
